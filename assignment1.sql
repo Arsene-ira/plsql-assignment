@@ -1,5 +1,4 @@
 -- MySQL Class Quiz Assignment
--- Student:
 
 -- Create Database
 CREATE DATABASE school_db;
