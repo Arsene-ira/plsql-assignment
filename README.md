@@ -1,6 +1,8 @@
 # MySQL Class Quiz Assignment
 
-**Student:**
+**Student:-Irankunda Brune 28252
+          -Sangwa Kamanzi Melissa 27405
+          -Iradukunda Arsene 27206**
 
 ## Assignment Overview
 This assignment demonstrates MySQL database concepts including:
